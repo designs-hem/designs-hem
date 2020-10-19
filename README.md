@@ -1,3 +1,5 @@
+<img src="bg.jpg" alt="Hem" />
+
 ### Hi there, I'm Hem 👋
 
 - 🔭 I’m currently working Frontend Arch.
